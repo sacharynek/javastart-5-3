@@ -33,6 +33,7 @@ public class Line {
         return "Line{" +
                 "beginning=" + beginning +
                 ", end=" + end +
+                ", length= "+getLenght()+
                 '}';
     }
 }
